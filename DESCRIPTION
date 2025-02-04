@@ -1,0 +1,13 @@
+Package: dashPlanet
+Title: react planet for dash
+Version: 0.0.1
+Description: react planet for dash
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/pip-install-python/dash-planet
+BugReports: https://github.com/pip-install-python/dash-planet/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

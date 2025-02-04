@@ -1,0 +1,11 @@
+include dash_planet/dash_planet.min.js
+include dash_planet/dash_planet.min.js.map
+include dash_planet/async-*.js
+include dash_planet/async-*.js.map
+include dash_planet/*-shared.js
+include dash_planet/*-shared.js.map
+include dash_planet/metadata.json
+include dash_planet/package-info.json
+include README.md
+include LICENSE
+include package.json
