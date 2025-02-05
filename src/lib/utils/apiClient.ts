@@ -1,4 +1,4 @@
-const DEFAULT_API_URL = 'http://localhost:8000/api/api-keys/validate';
+const DEFAULT_API_URL = 'https://geomapindex.com/api/api-keys/validate';
 
 interface ValidationResponse {
     valid: boolean;

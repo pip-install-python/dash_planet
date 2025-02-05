@@ -356,6 +356,9 @@ app.layout = dmc.MantineProvider(
                     ],
                     style=styles["description"],
                 ),
+                dmc.Center(
+                    dmc.Anchor(href='https://pipinstallpython.pythonanywhere.com/catalogue/dash-planet_95/', children='Buy a DashPlanet API', target='_blank', size='lg', c='blue')
+                ),
                 dmc.Group(
                     [
                         dcc.Input(
